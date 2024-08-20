@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097552646868",
+    "project_id": "online-guide-vchd4",
+    "storage_bucket": "online-guide-vchd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097552646868:android:978d5f4ef3e4102b386141",
+        "android_client_info": {
+          "package_name": "com.example.online_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLYXX-fsGp_H90HpgImvG_3euVBk9F6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
